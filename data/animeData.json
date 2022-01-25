@@ -1,0 +1,139 @@
+[
+    {
+        "id": 0,
+        "title": "Attack on Titan",
+        "summary": "Humanity lives inside cities surrounded by enormous walls due to the Titans, gigantic humanoid beings who devour humans seemingly without reason.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "episodes": 87,
+        "seasons": 4,
+        "year": 2013
+    },
+    {
+        "id": 1,
+        "title": "Gintama",
+        "summary": "Three freelancers who search for work in order to pay the monthly rent, which usually goes unpaid anyway.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "episodes": 367,
+        "seasons": 10,
+        "year": 2006
+    },
+    {
+        "id": 2,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "summary": "Set in a universe where alchemy is a widely practiced science, two alchemist brothers are searching for a way to restore their bodies after a failed experiment.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes": 64,
+        "seasons": 1,
+        "year": 2009
+    },
+    {
+        "id": 3,
+        "title": "Steins;Gate",
+        "summary": "A self-proclaimed mad scientist invents a microwave that can send text messages into the past.",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "episodes": 47,
+        "seasons": 2,
+        "year": 2011
+    },
+    {
+        "id": 4,
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "summary": "Lelouch Lamperouge finds himself caught in a crossfire between the Britannian and the Area 11 rebel armed forces.",
+        "genres": [
+            "Mecha",
+            "Military",
+            "School"
+        ],
+        "episodes": 50,
+        "seasons": 2,
+        "year": 2006
+    },
+    {
+        "id": 5,
+        "title": "Mushishi",
+        "summary": "What are Mushi and why do they exist? Mushishi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 46,
+        "seasons": 3,
+        "year": 2005
+    },
+    {
+        "id": 6,
+        "title": "Jujutsu Kaisen",
+        "summary": "High school student Yuji Itadori as he joins a secret organization of Jujutsu Sorcerers in order to kill a powerful Curse.",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "episodes": 24,
+        "seasons": 1,
+        "year": 2020
+    },
+    {
+        "id": 7,
+        "title": "Death Note",
+        "summary": "Light Yagami discovers a mysterious notebook which grants the user the ability to kill anyone whose name is written in its pages.",
+        "genres": [
+            "Mystery",
+            "Supernatural",
+            "Suspense"
+        ],
+        "episodes": 37,
+        "seasons": 1,
+        "year": 2006
+    },
+    {
+        "id": 8,
+        "title": "One Punch Man",
+        "summary": "Saitama performs heroic deeds as a hobby. He has trained himself to the point of being able to defeat any enemy with a single punch, but his unmatched strength has left him with an overwhelming sense of boredom.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "Supernatural"
+        ],
+        "episodes": 24,
+        "seasons": 2,
+        "year": 2015
+    },
+    {
+        "id": 9,
+        "title": "One Piece",
+        "summary": "Monkey D. Luffy explores the Grand Line in search of the world's ultimate treasure known as One Piece in order to become the next Pirate King.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes": 1006,
+        "seasons": 20,
+        "year": 1999
+    }
+]

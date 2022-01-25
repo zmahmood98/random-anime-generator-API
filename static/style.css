@@ -1,0 +1,20 @@
+* { box-sizing: border-box; }
+
+body {
+    width: 100vw;
+    font-family: var(--primary-font);
+    text-align: center;
+    margin: 0;
+    background-color: rgb(255, 250, 244);
+}
+
+h1 {
+    background-color: rgba(138, 255, 255, 0.7); 
+    height: 15vh; 
+    width: 100%;
+    padding: 20px;
+}
+
+#generate {
+    margin: 50px;
+}
